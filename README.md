@@ -11,7 +11,7 @@
 ### About Me:
 - 🎓 Passionate about **Software Development** and **Open Source**
 - 🚀 Always excited to learn **new technologies** and **improve my skills**
-- 📫 Reach out to me: [your-email@example.com](mailto:kanoscripting@gmail.com)
+- 📫 Reach out to me: [EMAIL](mailto:kanoscripting@gmail.com)
 
 ---
 
@@ -19,13 +19,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=scindo07&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scindo07&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
-
----
-
-### 📚 Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scindo07&langs_count=10&layout=compact&theme=radical&hide_border=true" alt="Top Languages Used" />
 </p>
 
 ---
