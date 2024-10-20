@@ -24,7 +24,7 @@
 ---
 
 ### 💻 Recent Projects:
-- 🚀 [**EtherDrops**](https://github.com/scindo07/ProjectOne) - An automatic claimer for EtherDrops
+- 🚀 [**Soon**](https://github.com/scindo07/ ) - An automatic claimer for -
 
 ---
 
