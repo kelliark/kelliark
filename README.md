@@ -24,7 +24,7 @@
 ---
 
 ### 💻 Recent Projects:
-- 🚀 [**Soon**](https://github.com/scindo07/ ) - An automatic claimer for -
+- 🍀 [**GetGrass**](https://github.com/scindo07/getgrass) - A multi farmer for GetGrass.io
 
 ---
 
