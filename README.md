@@ -11,7 +11,6 @@
 ### About Me:
 - 🎓 Passionate about **Software Development**, **Automation**, and **Open Source**
 - 🚀 Always excited to learn **new technologies** and **improve my skills**
-- 🛰 Currently working on **proxy services**, **VPS management**, and **custom scripts**
 - 📫 Reach out to me: [EMAIL](mailto:kanoscripting@gmail.com)
 
 ---
