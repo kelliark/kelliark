@@ -1,12 +1,12 @@
 <h1 align="center">Welcome to My GitHub! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Hello%2C+World!+I'm+%3CScindo%3E;Open-Source+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Hello%2C+World!+I'm+%3CKelliark%3E;Open-Source+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG" />
 </p>
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=scindo07&show_icons=true&hide_border=true&theme=radical&count_private=true&include_all_commits=true" width="50%"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kelliark&show_icons=true&hide_border=true&theme=radical&count_private=true&include_all_commits=true" width="50%"/>
 
 ### About Me:
 - 🎓 Passionate about **Software Development** and **Open Source**
