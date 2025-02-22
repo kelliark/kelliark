@@ -9,34 +9,30 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kelliark&show_icons=true&hide_border=true&theme=radical&count_private=true&include_all_commits=true" width="50%"/>
 
 ### About Me:
-- 🎓 Passionate about **Software Development** and **Open Source**
+- 🎓 Passionate about **Software Development**, **Automation**, and **Open Source**
 - 🚀 Always excited to learn **new technologies** and **improve my skills**
+- 🛰 Currently working on **proxy services**, **VPS management**, and **custom scripts**
 - 📫 Reach out to me: [EMAIL](mailto:kanoscripting@gmail.com)
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scindo07&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scindo07&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelliark&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelliark&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
-
----
-
-### 💻 Recent Projects:
-- 🍀 [**GetGrass**](https://github.com/scindo07/getgrass) - A multi farmer for GetGrass.io
 
 ---
 
 ### 🌐 Find Me Online:
 <p align="left">
-  <a href="https://twitter.com/kanoscripting" target="_blank">
+  <a href="https://x.com/kanoscripting" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" />
   </a>
-  <a href="https://youtube.com/@Ketetsuu" target="_blank">
+  <a href="https://www.youtube.com/@baldsheep07" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF7139?logo=Firefox-Browser&logoColor=white&style=flat-square" />
   </a>
-  <a href="mailto:kanoscriptingl@example.com">
+  <a href="mailto:kanoscripting@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" />
   </a>
 </p>
@@ -48,8 +44,8 @@
   If you find my projects useful or want to support my open-source contributions, you can make a donation using:
 </p>
 
-- **TON (The Open Network):** ``UQAQTZxN326CMt7tqGweHRa7FR0-e-kg9BX2v0-d51ZIDcUf``
-- **Ethereum (ETH):** ``0xcb418563929516e1c984a9428ac1d0c9433a524a``
+- **TON (The Open Network):** `UQAQTZxN326CMt7tqGweHRa7FR0-e-kg9BX2v0-d51ZIDcUf`
+- **Ethereum (ETH):** `0xcb418563929516e1c984a9428ac1d0c9433a524a`
 
 ---
 
