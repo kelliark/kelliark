@@ -23,21 +23,6 @@
 
 ---
 
-### 🌐 Find Me Online:
-<p align="left">
-  <a href="https://x.com/kanoscripting" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" />
-  </a>
-  <a href="https://www.youtube.com/@baldsheep07" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-FF7139?logo=Firefox-Browser&logoColor=white&style=flat-square" />
-  </a>
-  <a href="mailto:kanoscripting@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" />
-  </a>
-</p>
-
----
-
 ### 🤝 Support Me:
 <p>
   If you find my projects useful or want to support my open-source contributions, you can make a donation using:
